@@ -1,0 +1,3 @@
+function getAverage(params:type) {
+    
+}
